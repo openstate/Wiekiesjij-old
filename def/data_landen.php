@@ -1,0 +1,16 @@
+<option value="0"></option>
+<option value="15">Nederland</option>
+<option value="66">Indonesie</option>
+<option value="100">Marokko</option>
+<option value="173">Nederlandse Antillen</option>
+<option value="167">Turkije</option>
+<option value="3">Duitsland</option>
+<option value="88">Ghana</option>
+<option value="135">India</option>
+<option value="60">Suriname</option>
+<option value="116">Tanzania</option>
+<option value="122">Zuid-Afrika</option>
+<option value="172">Elders</option>
+<option value="1">België</option>
+<option value="45">Nicaragua</option>
+<option value="106">Nigeria</option>

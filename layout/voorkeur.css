@@ -1,0 +1,133 @@
+#grospics {
+	border: 18px solid white;
+	margin-bottom: 20px;
+	clear: both;
+	/*background-color: #FFFFBB;*/
+}
+
+p.filterinfo {
+	font-size: 0.8em;
+	font-weight: bold;
+	margin: 5px 0 0 0;
+	padding: 0;
+	white-space: nowrap;
+	overflow: hidden;
+	text-align: center;
+}
+
+#grospics p.fractie {
+	margin: 0;
+	color: gray;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0.6em;
+}
+
+#grospics p.name {
+	margin: 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 0.7em;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	font-size: 0.7em;
+	border-bottom: 1px solid #DDDDDD;
+	padding: 2px 5px;
+	vertical-align: bottom;
+}
+
+td.label {
+	font-weight: bold;
+}
+
+
+
+.menu p.subheader{
+	clear: both;
+	font-weight: bold;
+	width: 165px;
+	float: left;
+	margin: 3px 0px 3px -5px;
+	border-bottom: 1px solid black;
+	color: white;
+}
+
+option {
+	width: 160px;
+}
+
+div.acchead {
+	cursor: pointer;
+	border-top: 1px solid #888888;
+	border-bottom: 1px solid black;
+}
+
+div.accbod {
+	background-image: url('fade_right_dark.png');
+}
+
+div.accbod div.button {
+	margin: 5px 5px 0px 5px;
+	float: left;
+}
+
+.menu p.sellabel {
+	width: 155px;
+	font-weight: bold;
+	padding: 0;
+	margin: 0px;
+	color: #333333;
+}
+
+.menu select {
+	height: 17px;
+	margin: 3px 0px;
+	padding: 0;
+	font-size: 12px;
+	width: 160px
+}
+
+.menu input {
+	margin: 3px 0px 3px 5px;
+	padding: 0 0 0 2px;
+	font-size: 12px;
+	height: 16px;
+}
+
+p.profilefooter {
+	font-size: 0.6em;
+	color: #DDDDDD;
+	clear: both;
+	text-align: center;
+}
+
+.number {
+	color: #ED1C24;
+	font-family: "trebuchet ms",sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 18px;
+}
+
+div.dropzone {
+	float: left;
+	margin: 5px;
+	width: 50px;
+	height: 66px;
+	background: url(../voorkeurstemmer/drop.gif);
+	cursor: pointer;
+}
+
+div.drophover {
+	background: url(../voorkeurstemmer/release.gif);
+}
+
+div#dropzone5 {
+	float: right;
+}
+

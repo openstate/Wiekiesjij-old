@@ -1,0 +1,13 @@
+<option value="-1"></option>
+<option value="1">Drenthe</option>
+<option value="2">Flevoland</option>
+<option value="3">Friesland</option>
+<option value="4">Gelderland</option>
+<option value="5">Groningen</option>
+<option value="6">Limburg</option>
+<option value="7">Noord-Brabant</option>
+<option value="8">Noord-Holland</option>
+<option value="9">Overijssel</option>
+<option value="10">Utrecht</option>
+<option value="11">Zeeland</option>
+<option value="12">Zuid-Holland</option>

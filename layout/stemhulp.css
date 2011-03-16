@@ -1,0 +1,92 @@
+div.weight {
+	width: 300px;
+	padding: 0;
+	/*float: right;*/
+	margin: 10px 0 0 20px;
+}
+
+span.unimportant {
+	font-size: 12px;
+	font-weight: bold;
+	color: #9A2D29;
+	margin: 0px;
+}
+
+span.important {
+	font-size: 12px;
+	font-weight: bold;
+	color: #379A29;
+	margin: 0px;
+}
+
+input{
+	vertical-align: bottom;
+	border: none;
+}
+
+h1.votehelptitle {
+	border-bottom: 1px solid #666666;
+	margin: 10px 20px 0px 20px;
+}
+
+div.votehelppage {
+	clear: both;
+}
+
+div.party {
+	width: 90px;
+	float: left;
+	text-align: center;
+}
+
+div#parties {
+	margin-left: 20px
+}
+
+label {
+	font-weight: bold;
+	font-size: 11px;
+	margin: 0 5px 0 10px;
+}
+
+div.party label {
+	white-space: nowrap;
+	margin: 10px 0;
+	display: block;
+}
+
+div.party img {
+	margin: 0 auto;
+}
+
+div.votehelppage {
+
+}
+
+div.helpfooter {
+	margin: 20px;
+	clear: both;
+	border-top: 1px solid #666666;
+}
+
+div.helpfooter h1 {
+	 width: 100px;
+	 float: left;
+	 margin: 5px 0;
+}
+
+div.questionbox {
+	background-image: url('background_graph.jpg');
+	margin: 0 20px;
+	padding: 10px 0;
+	border: 1px solid #666;
+}
+
+.percentage {
+	color: #ED1C24;
+	font-family: "trebuchet ms",sans-serif;
+	font-size: 28px;
+	font-weight: normal;
+	margin: 5px;
+	padding: 0;
+}

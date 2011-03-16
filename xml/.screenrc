@@ -1,0 +1,4 @@
+vbell off
+escape ``
+hardstatus alwayslastline
+hardstatus string '%{= bw} %-w%{= bW}%50>%n %t%{= bw}%+w%< %{= kB}%-=%D %d %M %Y %c:%s %{-}'

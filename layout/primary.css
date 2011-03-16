@@ -1,0 +1,113 @@
+/******** Poll lay out ********/
+
+div.attention {
+	height: 25px;
+	color: white;
+	font-size: 21px;
+	text-align: center;
+	background-image: url('background_attention.jpg');
+	margin: 0 20px;
+	border-top: 2px solid #ed7f84;
+	border-right: 2px solid #c4171e;
+	border-bottom: 2px solid #9c1218;
+	border-left: 2px solid #ed9094;
+}
+
+/******* voting booth ********/
+
+img#stemheader {
+	margin: 0px 20px;
+}
+
+table#votingbooth
+{
+	/*border-collapse: collapse;*/
+	margin: 10px 20px 20px 20px;
+}
+
+table#votingbooth td.label {
+	font-weight: bold;
+	font-size: 0.8em;
+	padding: 0 10px;
+	margin: 0;
+	white-space: nowrap;
+}
+
+table#votingbooth td.choice {
+	width: 100%;
+	font-weight: bold;
+	font-size: 0.8em;
+	padding: 0 5px;
+}
+
+table#votingbooth td.checkbox {
+	width: 16px;
+}
+
+table#votingbooth a {
+	font-weight: normal;
+	text-decoration: underline;
+	font-size: 10px;
+	margin: 0 10px;
+}
+
+table#votingbooth p.help {
+	color: #666666;
+	background-color: #FBF9B3;
+	font-weight: normal;
+	padding: 5px;
+	border: 1px solid black;
+	margin: 10px 0px;
+	display: none;
+}
+
+table#votingbooth p.error {
+	color: red;
+}
+
+div#sms_confirm, div#sms_resend {
+	font-size: 0.8em;
+	padding: 0;
+	margin: 5px 0;
+	display: none;
+}
+
+/******* END voting booth ********/
+
+/******* candidates table ********/
+
+table.candidates {
+	border-collapse: collapse;
+	margin: 0px auto;
+	width: 520px;
+	clear: both;
+}
+
+table.candidates td {
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+table.candidates img {
+	margin-left: auto;
+    margin-right: auto;
+}
+
+table.candidates p {
+	margin: 5px 0px 0px 0px;
+	padding: 0px;
+	font-weight: bold;
+}
+
+table.candidates .percentage {
+	color: #ED1C24;
+	font-family: "trebuchet ms",sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+	line-height: 32px;
+}
+
+/******* END candidates table ********/
+
+/******** END Poll lay out ********/

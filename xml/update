@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# run this script to get the latest xml files
+
+wget http://beheer.stemwijzer.nl/PS2007/Groningen/content.xml -O groningen.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Fryslan/content.xml -O friesland.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Drenthe/content.xml -O drenthe.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Overijssel/content.xml -O overijssel.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Gelderland/content.xml -O gelderland.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Utrecht/content.xml -O utrecht.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Limburg/content.xml -O limburg.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Noord-Brabant/content.xml -O noordbrabant.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Zeeland/content.xml -O zeeland.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Flevoland/content.xml -O flevoland.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Noord-Holland/content.xml -O noordholland.xml &&
+wget http://beheer.stemwijzer.nl/PS2007/Zuid-Holland/content.xml -O zuidholland.xml
